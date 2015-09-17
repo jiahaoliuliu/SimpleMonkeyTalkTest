@@ -2,6 +2,7 @@ package com.jiahaoliuliu.simplemonkeytalktest;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.MenuItem;
 import android.widget.TextView;
 
 public class DetailsActivity extends AppCompatActivity {
@@ -29,5 +30,19 @@ public class DetailsActivity extends AppCompatActivity {
         // Link the views
         mTitleTextView = (TextView) findViewById(R.id.title_text_view);
         mTitleTextView.setText(mTitle);
+
+        // Display the up button
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if (item.getItemId() == android.R.id.home) {
+            // Back to the previous activity
+            onBackPressed();
+            return true;
+        } else {
+            return super.onOptionsItemSelected(item);
+        }
     }
 }
