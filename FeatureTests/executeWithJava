@@ -1,0 +1,1 @@
+java -jar monkeytalk-runner-2.0.9.jar -agent AndroidEmulator ListClicks.mt
