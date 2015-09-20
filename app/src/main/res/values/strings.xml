@@ -2,11 +2,9 @@
     <string name="app_name">Simple MonkeyTalk Test</string>
 
     <!-- Main activity -->
-    <string name="main_activity_name">Main activity</string>
-    <string name="start_another_activity">Start Another activity</string>
+    <string name="main_activity_name">@string/app_name</string>
 
-    <!-- Second activity -->
-    <string name="second_activity_name">Second activity</string>
-    <string name="finish">Finish activity</string>
+    <!-- Details activity -->
+    <string name="details_activity_name">Details activity</string>
 
 </resources>
