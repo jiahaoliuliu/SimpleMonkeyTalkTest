@@ -1,11 +1,11 @@
-<android.support.v7.widget.RecyclerView
+<ListView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/my_recycler_view"
+    android:id="@+id/simple_list_view"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:scrollbars="vertical"
     >
 
-</android.support.v7.widget.RecyclerView>
+</ListView>

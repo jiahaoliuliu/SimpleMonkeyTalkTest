@@ -1,0 +1,5 @@
+Error with gradle plugin 1.2.3
+
+    Check the follow error:
+    Error:Execution failed for task ':app:compileDebugJava'.
+    > No such property: bootClasspath for class: com.android.build.gradle.AppPlugin
