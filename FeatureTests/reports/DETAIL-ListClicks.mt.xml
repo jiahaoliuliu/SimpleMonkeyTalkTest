@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2015-09-20 13:27:41.132 GST" projectPath="/Users/jiahao/projects/github/SimpleMonkeyTalkTest/FeatureTests" agent="AndroidEmulator v2.0.10_4 - 2014-12-13 17:07:55 EST" runner="MonkeyTalk IDE v2.0.9_533 - 2014-09-26 15:13:11 MDT">
+    <script  comp="Script" id="ListClicks.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script ListClicks.mt Run %thinktime=500 %timeout=2000" idx="1" start="1442741238488" stop="1442741261079" duration="22.591" result="ok">
+        <cmd  comp="Table" id="*" action="select" args="&quot;Apple Pie&quot;" mods="%thinktime=500 %timeout=2000" raw="Table * select &quot;Apple Pie&quot; %thinktime=500 %timeout=2000" idx="2" start="1442741238513" stop="1442741239715" duration="1.202" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Navigate up" action="tap" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Navigate up&quot; tap %thinktime=500 %timeout=2000" idx="3" start="1442741239715" stop="1442741240278" duration="0.563" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="*" action="select" args="&quot;Banana Bread&quot;" mods="%thinktime=500 %timeout=2000" raw="Table * select &quot;Banana Bread&quot; %thinktime=500 %timeout=2000" idx="4" start="1442741240278" stop="1442741241455" duration="1.177" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Navigate up" action="tap" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Navigate up&quot; tap %thinktime=500 %timeout=2000" idx="5" start="1442741241455" stop="1442741242010" duration="0.555" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="*" action="select" args="Cupcake" mods="%thinktime=500 %timeout=2000" raw="Table * select Cupcake %thinktime=500 %timeout=2000" idx="6" start="1442741242010" stop="1442741243221" duration="1.211" result="ok">
+        </cmd>
+        <cmd  comp="Device" id="*" action="back" mods="%thinktime=500 %timeout=2000" raw="Device * back %thinktime=500 %timeout=2000" idx="7" start="1442741243221" stop="1442741243768" duration="0.547" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="*" action="select" args="Donut" mods="%thinktime=500 %timeout=2000" raw="Table * select Donut %thinktime=500 %timeout=2000" idx="8" start="1442741243768" stop="1442741244972" duration="1.204" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Navigate up" action="tap" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Navigate up&quot; tap %thinktime=500 %timeout=2000" idx="9" start="1442741244972" stop="1442741245519" duration="0.547" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="*" action="select" args="Eclair" mods="%thinktime=500 %timeout=2000" raw="Table * select Eclair %thinktime=500 %timeout=2000" idx="10" start="1442741245519" stop="1442741246695" duration="1.176" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Navigate up" action="tap" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Navigate up&quot; tap %thinktime=500 %timeout=2000" idx="11" start="1442741246695" stop="1442741247239" duration="0.544" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="*" action="select" args="Froyo" mods="%thinktime=500 %timeout=2000" raw="Table * select Froyo %thinktime=500 %timeout=2000" idx="12" start="1442741247239" stop="1442741248421" duration="1.182" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Navigate up" action="tap" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Navigate up&quot; tap %thinktime=500 %timeout=2000" idx="13" start="1442741248422" stop="1442741248961" duration="0.539" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="*" action="select" args="Gingerbread" mods="%thinktime=500 %timeout=2000" raw="Table * select Gingerbread %thinktime=500 %timeout=2000" idx="14" start="1442741248961" stop="1442741250146" duration="1.185" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Navigate up" action="tap" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Navigate up&quot; tap %thinktime=500 %timeout=2000" idx="15" start="1442741250146" stop="1442741250692" duration="0.546" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="*" action="select" args="Honeycomb" mods="%thinktime=500 %timeout=2000" raw="Table * select Honeycomb %thinktime=500 %timeout=2000" idx="16" start="1442741250692" stop="1442741251878" duration="1.186" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Navigate up" action="tap" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Navigate up&quot; tap %thinktime=500 %timeout=2000" idx="17" start="1442741251878" stop="1442741252429" duration="0.551" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="*" action="select" args="&quot;Ice Cream Sandwich&quot;" mods="%thinktime=500 %timeout=2000" raw="Table * select &quot;Ice Cream Sandwich&quot; %thinktime=500 %timeout=2000" idx="18" start="1442741252429" stop="1442741253606" duration="1.177" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Navigate up" action="swipe" args="right" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Navigate up&quot; swipe right %thinktime=500 %timeout=2000" idx="19" start="1442741253606" stop="1442741254216" duration="0.61" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="*" action="select" args="&quot;Jelly Bean&quot;" mods="%thinktime=500 %timeout=2000" raw="Table * select &quot;Jelly Bean&quot; %thinktime=500 %timeout=2000" idx="20" start="1442741254217" stop="1442741255391" duration="1.174" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Navigate up" action="tap" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Navigate up&quot; tap %thinktime=500 %timeout=2000" idx="21" start="1442741255391" stop="1442741255911" duration="0.52" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="*" action="select" args="KitKat" mods="%thinktime=500 %timeout=2000" raw="Table * select KitKat %thinktime=500 %timeout=2000" idx="22" start="1442741255911" stop="1442741257102" duration="1.191" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Navigate up" action="tap" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Navigate up&quot; tap %thinktime=500 %timeout=2000" idx="23" start="1442741257102" stop="1442741257643" duration="0.541" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="*" action="select" args="Lollipop" mods="%thinktime=500 %timeout=2000" raw="Table * select Lollipop %thinktime=500 %timeout=2000" idx="24" start="1442741257644" stop="1442741258826" duration="1.182" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Navigate up" action="tap" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Navigate up&quot; tap %thinktime=500 %timeout=2000" idx="25" start="1442741258826" stop="1442741259371" duration="0.545" result="ok">
+        </cmd>
+        <cmd  comp="Table" id="*" action="select" args="Mershmallow" mods="%thinktime=500 %timeout=2000" raw="Table * select Mershmallow %thinktime=500 %timeout=2000" idx="26" start="1442741259371" stop="1442741260544" duration="1.173" result="ok">
+        </cmd>
+        <cmd  comp="Image" id="Navigate up" action="tap" mods="%thinktime=500 %timeout=2000" raw="Image &quot;Navigate up&quot; tap %thinktime=500 %timeout=2000" idx="27" start="1442741260545" stop="1442741261079" duration="0.534" result="ok">
+        </cmd>
+    </script>
+</detail>
